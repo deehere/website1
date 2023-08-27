@@ -3,12 +3,12 @@
 :root {
   --font-family: 'Manrope', sans-serif;
 
-  --gradient-text: linear-gradient(89.97deg, #fa6767 1.84%, #f46767 102.67%);
-  --gradient-bar: linear-gradient(103.22deg, #fa6767 -13.86%, #f46767 99.55%);
+  --gradient-text: linear-gradient(89.97deg, #f55c5c 1.84%, #f55c5c 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #f55c5c -13.86%, #f55c5c 99.55%);
   
   --color-bg: #180404;
   --color-footer : #340303;
   --color-blog: #540404;
-  --color-text: #dd8181;
+  --color-text: #ee7d7d;
   --color-subtext: #ff7171;
 }
